@@ -21,9 +21,14 @@ Instructions on running the recommender system:
   3) Open Python 3.9.0 Shell and run "Recommender System with Collaborative Filtering.py"
   
 References:
-[1] : https://kerpanic.wordpress.com/2018/03/26/a-gentle-guide-to-recommender-systems-with-surprise/
-[2] : https://surprise.readthedocs.io/en/stable/matrix_factorization.html
-[3] : https://pandas.pydata.org/pandas-docs/stable/reference/api/
-[4] : https://towardsdatascience.com/user-user-collaborative-filtering-for-jokes-recommendation-b6b1e4ec8642
-[5] : https://realpython.com/build-recommendation-engine-collaborative-filtering/
-[6] : https://medium.com/@tomar.ankur287/user-user-collaborative-filtering-recommender-system-51f568489727
+1) : https://kerpanic.wordpress.com/2018/03/26/a-gentle-guide-to-recommender-systems-with-surprise/
+
+2) : https://surprise.readthedocs.io/en/stable/matrix_factorization.html
+
+3) : https://pandas.pydata.org/pandas-docs/stable/reference/api/
+
+4) : https://towardsdatascience.com/user-user-collaborative-filtering-for-jokes-recommendation-b6b1e4ec8642
+
+5) : https://realpython.com/build-recommendation-engine-collaborative-filtering/
+
+6) : https://medium.com/@tomar.ankur287/user-user-collaborative-filtering-recommender-system-51f568489727
